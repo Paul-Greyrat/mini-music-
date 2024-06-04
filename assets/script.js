@@ -1,4 +1,4 @@
-const songList = [
+const songList = [ 
     {
         name: "Jazz In Parris",
         artist: "Media Right Productions",
