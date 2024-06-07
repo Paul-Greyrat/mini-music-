@@ -30,6 +30,7 @@ const playBtn = document.getElementById('play');
 const prevBtn = document.getElementById('prev');
 const nextBtn = document.getElementById('next');
 
+
 let song = new Audio();
 let currentSong = 0;
 let playing = false;
