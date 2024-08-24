@@ -9,7 +9,7 @@ const songList = [
         name: "Jazz In Parris",
         artist: "Media Right Productions",
         src: "assets/music/2.mp3",
-        cover: "assets/img/2.jpg"
+        cover: "assets/img/2.jpg" 
     },
     {
         name: "Jazz In Parris",
